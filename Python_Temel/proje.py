@@ -62,8 +62,24 @@ input: [[1, 2], [3, 4], [5, 6, 7]]
 output: [[[7, 6, 5], [4, 3], [2, 1]]
 """
 
-def reverse(lst):
+def reversed(lst):
+    """
+    Verilen listenin içindeki elemanları tersine döndüren bir fonksiyon
+    Created on Tue Feb 21 10:38:35 2023
+    @author: ACA
+    Parameters
+    ----------
+    lst : list
+
+    Returns
+    -------
+    lst : tersine yazılmış list
+
+    """
+    for i in lst:
+        i.reverse()
+    lst.reverse()
     return lst
 
 entry = [[1, 2], [3, 4], [5, 6, 7]]
-print(reverse(entry))
+print(reversed(entry))
