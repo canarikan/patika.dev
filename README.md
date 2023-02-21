@@ -1,2 +1,2 @@
 # patika.dev
-Patika.Dev trainings repo
+Patika.Dev training repos
