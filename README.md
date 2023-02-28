@@ -33,4 +33,4 @@ proje kodlarına gitmek için [proje.py](https://github.com/canarikan/patika.dev
 4. customer tablosunda bulunan first_name sütunundaki değeri 'Mary' olan müşterinin last_name sütunundaki değeri nedir?
 5. film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
    
-proje kodlarına gitmek için [odev.sql](https://github.com/canarikan/patika.dev/tree/main/SQL/)
+proje kodlarına gitmek için [SQL](https://github.com/canarikan/patika.dev/tree/main/SQL/)
