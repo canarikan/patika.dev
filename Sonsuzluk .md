@@ -1,5 +1,5 @@
+![vecteezy_infinity-symbol-vector_](https://user-images.githubusercontent.com/35954591/223067204-b226544e-591a-4ec6-b245-b91b1be99f4b.jpg)
 # Sonsuzluk
-
 # Sonsuzluğun Gizemi
 
 Sonsuzluk, yüzyıllardır düşünürleri ve bilim adamlarını büyüleyen bir kavramdır. Sonu veya sınırı olmayan bir şey fikri birçok kişinin kafasını karıştırmakta ve hala bir sır olarak kalıyor. Bu yazıda, sonsuzluk kavramını, kökenlerini ve sonuçlarını keşfedeceğiz.
@@ -15,6 +15,7 @@ Matematikçiler sonsuzluğu karmaşık problemleri çözmek için bir araç olar
 Sonsuzluk, sorunsuz ve mükemmel değildir. Sonsuzluğun en ünlü paradokslarından biri Zeno paradoksu olarak bilinir. Zeno, hareketin imkansız olduğunu çünkü bir noktadan diğerine gitmek için önce mesafenin yarısını kat etmeniz gerektiğini savundu. Mesafenin yarısını katetmek için önce o mesafenin yarısını katetmelisiniz ve bu böyle sonsuza kadar devam eder.
 
 Bir başka ünlü sonsuzluk paradoksu da Hilbert'in Grand Hoteli'dir. Hilbert'in Grand Hotel'inde sonsuz sayıda oda var ve her oda dolu. Bununla birlikte, otel müdürü, her misafirden bir sonraki odaya geçmesini isteyerek sonsuz sayıda yeni misafir ağırlayabilir. Bu paradoksu düşünürken akla gelen ilk soru bu otelde kaç oda ve hatta dikey düzlemde yükseldiği düşünülürse kaç katlı bir binadan bahsediliyor? Paradoksların güzelliklerine hoşgeldiniz…
+
 
 ## Sonsuzluğun Etkileri
 
